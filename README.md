@@ -117,7 +117,7 @@ ReactDOM.render(
 
 E ao iniciar com o comando 'yarn start' vamos obter o seguinte resultado
 
-![Untitled](React%20JS%20+%20Typescript%20+%20ESlint%20+%20Prettier%20f6ee2e32ed8147cdafdda089f204f13b/Untitled.png)
+![image](https://user-images.githubusercontent.com/43239578/135615747-2768573b-8127-4763-b6e8-c52c00333885.png)
 
 ## Instalando e configurando ESLint
 
